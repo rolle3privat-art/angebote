@@ -1,5 +1,5 @@
 SUPERMARKT-ANGEBOTE 16.11.2026 bis 22.11.2026
-Stand: 15.11.2026 11:53 | 693 Angebote zum Kochen
+Stand: 15.11.2026 12:21 | 693 Angebote zum Kochen
 WOCHENSTART: 2026-11-16
 
 Aufbau jeder Zeile: Laden | Produkt (Marke) | Grundzutat · Teilstück · Verarbeitung | Beschreibung | Preis
@@ -736,3 +736,10 @@ PENNY | Pilsner (Radeberger Pilsner) | HINWEIS: MIT PENNY APP 9.99 € Zzgl. 3.1
 REWE | Pils (Beck's) | versch. Sorten, je 20 x 0,5-l-Kasten zzgl. 3.10 Pfand. | 10,99 EUR
 REWE | Pils (Warsteiner) | je 20 x 0,5-l-Fl.-Kasten zzgl. 3.10 Pfand | 10,99 EUR
 Netto Marken-Discount | Pilsener (Flensburger) | 20 x 0,33 l zzgl. Pfand 4.50 | 11,99 EUR | erst ab Samstag
+
+== WINDELN / PAMPERS (4) ==
+budni | Hello World Pants (Hallo Welt) | versch. Größen Single-Pack | 3,49 EUR | ca. 0,19 EUR je Stück | gültig 16.11. bis 21.11.
+budni | Drynites Pyjama-Pants (Huggies) | versch. Größen Packung | 5,99 EUR | ca. 1,50 EUR je Stück | gültig 16.11. bis 21.11.
+REWE | Sparpack Baby Dry Pants (Pampers) | Gr. 7, je 29-St.-Pckg. oder Sparpack Baby Dry Windel Gr. 6 XL, je 34-St.-Pckg. | 12,99 EUR | ca. 0,45 EUR je Stück | gültig 16.11. bis 21.11.
+Lidl | Baby Dry (Pampers) | HINWEIS: MIT LIDL PLUS APP 19.99 €  oder Pants Premium/Protection Versch. Sorten. Je 124/78/136/120/112/126/156/102/98/ 92/86/114/94/78/72/99/116/138 Stück | 24,99 EUR | ca. 0,20 EUR je Stück | Kunden-App beachten | gültig 26.11. bis 28.11.
+dm und Rossmann fehlen hier: Für sie gibt es keine lesbaren Angebotsdaten.
