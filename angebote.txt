@@ -1,5 +1,5 @@
 SUPERMARKT-ANGEBOTE 16.11.2026 bis 22.11.2026
-Stand: 15.11.2026 12:21 | 693 Angebote zum Kochen
+Stand: 15.11.2026 12:33 | 693 Angebote zum Kochen
 WOCHENSTART: 2026-11-16
 
 Aufbau jeder Zeile: Laden | Produkt (Marke) | Grundzutat · Teilstück · Verarbeitung | Beschreibung | Preis
@@ -721,6 +721,85 @@ ALDI Nord | Speisekürbis „Hokkaido“ (Bio) | Kürbis · Hokkaido | Lose Ware
 Lidl | Kastanien (Freshona) | Maronen · geschält · gegart | Geschält und dampfgegart. Je 420 g | 5,99 EUR für 420 g = 14,26 EUR/kg
 Lidl | Wachtelbrüste (Nestler) | Wachtel · Brust oder Keule · mariniert | oder Wachtelkeulen Mariniert. Je 200 g | 4,49 EUR für 200 g = 22,45 EUR/kg | erst ab Donnerstag
 Lidl | Wolfsbarsch (Fischerstolz) | Wolfsbarsch · ganzer Fisch · natur | Roh, ausgenommen. Ca. 533–650 g z.B. 533 g | 7,99 EUR für 533 g = 14,99 EUR/kg | erst ab Donnerstag
+
+== BROTBELAG: WURST, LEBERWURST, KÄSE, FRISCHKÄSE (77) ==
+PENNY | Original Thüringer Jagdwurst (EWU Thüringer) | Wurst/Aufschnitt | je 750 g | 3,33 EUR für 750 g = 4,44 EUR/kg
+Kaufland | Frühstücksfleisch (Tulip) | Wurst/Aufschnitt | aus Schweinefleisch, ideal als Brotbelag 340-g-Dose, 4 für 7.00 | 1,99 EUR für 340 g = 5,85 EUR/kg | erst ab Donnerstag
+Kaufland | Kochhinterschinken (K-Classic) | Wurst/Aufschnitt | gepökelt, gekühlt je 200-g-Packg. | 1,29 EUR für 200 g = 6,45 EUR/kg
+Netto Marken-Discount | Jagdwurst (Eberswalder) | Wurst/Aufschnitt | oder Bierschinken 350 g | 2,49 EUR für 350 g = 7,11 EUR/kg
+Kaufland | Bierschinken (Eberswalder) | Wurst/Aufschnitt | oder Paprikalyoner geschnitten, gekühlt je 100 - 150-g-Packg. | 1,11 EUR für 150 g = 7,40 EUR/kg
+Kaufland | Edelsalami (K-Classic) | Wurst/Aufschnitt | geräuchert, Spitzenqualität, gekühlt je 150-g-Packg. 2 Stück 2.00 | 1,19 EUR für 150 g = 7,93 EUR/kg | erst ab Donnerstag
+NORMA | Edel-Salami XXL (Gut Bartenhof) | Wurst/Aufschnitt | Im Aktionskühlregal, je 200 g | 1,59 EUR für 200 g = 7,95 EUR/kg
+NORMA | Wurstspezialität (Gutes aus der Eifel) | Wurst/Aufschnitt | je 250 g | 1,99 EUR für 250 g = 7,96 EUR/kg
+Kaufland | Frischwurst-Aufschnitt (K-Wertschätze) | Wurst/Aufschnitt | versch. Sorten, aus eigener Herstellung je 100 g | 0,89 EUR je 100 g (Grundpreis, keine Packung)
+Lidl | Mini Ovale Prosciutto e Mascarpone (Lidl Backshop) | Wurst/Aufschnitt | Je 160 g | 1,59 EUR für 160 g = 9,94 EUR/kg
+Netto Marken-Discount | Prosciutto Cotto (Hofmaier) | Wurst/Aufschnitt | 200 g nach italienischer Art | 1,99 EUR für 200 g = 9,95 EUR/kg
+Kaufland | Thüringer Rotwurst | Wurst/Aufschnitt | in der Krause je 100 g | 1,19 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Frühstücksaufschnitt (Wiesbauer) | Wurst/Aufschnitt | mit vier Frischwurst-Spezialitäten, gekühlt je 150-g-Packg. | 1,79 EUR für 150 g = 11,93 EUR/kg
+PENNY | Fleischwurst (Wiesbauer) | Wurst/Aufschnitt | Versch. Sorten, je 120 g | 1,49 EUR für 120 g = 12,42 EUR/kg | erst ab Donnerstag
+Kaufland | Premium-Aspik Florida Hähnchen (Reinert) | Wurst/Aufschnitt | Aspikspezialität mit zartem Hähnchenbrustfilet und fruchtigen Mandarin | 1,29 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Putenbrust (K-Classic) | Wurst/Aufschnitt | auch mit Curry oder Kräutern verfeinert, in Scheiben, gekühlt je 100-g | 1,29 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Schinkenspezialität (K-Classic) | Wurst/Aufschnitt | Schwarzwälder Schinken g. g. A., Schinkenspeck, Bauern- oder Landschin | 1,11 EUR für 80 g = 13,88 EUR/kg
+Lidl | Finesse (Herta) | Wurst/Aufschnitt | Versch. Sorten. Gekühlt. Je 100 g | 1,39 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Zungenrotwurst (Metzgerei Wilhelm Brandenburg) | Wurst/Aufschnitt | je 100 g | 1,39 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Putenbrust (Metzgerei Landbauern) | Wurst/Aufschnitt | je 100 g | 1,39 EUR je 100 g (Grundpreis, keine Packung)
+nahkauf | Zungenrotwurst (Metzgerei Wilhelm Brandenburg) | Wurst/Aufschnitt | je 100 g | 1,39 EUR je 100 g (Grundpreis, keine Packung)
+Netto Marken-Discount | Marken-Metzger Salami-Sortiment | Wurst/Aufschnitt | 100 g versch. Sorten | 1,49 EUR für 100 g = 14,90 EUR/kg
+Kaufland | Salami (Gutsmeister) | Wurst/Aufschnitt | klassisch oder mit Pfeffer ummantelt je 100 g | 1,49 EUR je 100 g (Grundpreis, keine Packung)
+Lidl | Salami Teller XXL (Wiltmann) | Wurst/Aufschnitt | Versch. Sorten. Gekühlt. Je 200 g | 2,99 EUR für 200 g = 14,95 EUR/kg
+REWE | Meisterschinken | Wurst/Aufschnitt | HINWEIS: MIT APP 10%  REWE BONUS gegart, je 100 g | 1,59 EUR je 100 g (Grundpreis, keine Packung) (nur mit Kunden-App)
+nahkauf | Meisterschinken | Wurst/Aufschnitt | gegart, je 100 g | 1,59 EUR je 100 g (Grundpreis, keine Packung)
+PENNY | Salami (Marten) | Wurst/Aufschnitt | Versch. Sorten, je 80 g | 1,29 EUR für 80 g = 16,13 EUR/kg
+REWE | Knoblauchsalami Zehe (Schiller) | Wurst/Aufschnitt | je 100 g | 1,69 EUR je 100 g (Grundpreis, keine Packung)
+Lidl | Gourmet-Salami (Deluxe) | Wurst/Aufschnitt | Versch. Sorten. Gekühlt. Je 250 g | 4,99 EUR für 250 g = 19,96 EUR/kg
+NORMA | Trüffel Salami (Finest Gourmet) | Wurst/Aufschnitt | Aus unserem Sortiment, Im Kühlregal, je 60 g | 1,29 EUR für 60 g = 21,50 EUR/kg
+REWE | Serrano Schinken (Campofrio) | Wurst/Aufschnitt | je 100 g | 2,29 EUR je 100 g (Grundpreis, keine Packung)
+NORMA | Speck Tradizionale / Prosciutto Crudo (Finest Gourmet) | Wurst/Aufschnitt | Aus unserem Sortiment, Im Kühlregal, je 100 g | 2,29 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Original Ungarische Salami (Pick) | Wurst/Aufschnitt | oder Paprika Kolbasz je 100 g | 2,49 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Rohschinken | Wurst/Aufschnitt | mit Trüffel, je 100 g | 2,99 EUR je 100 g (Grundpreis, keine Packung)
+Netto Marken-Discount | Leberwurst (Hofmaier) | Streichwurst | im Becher, versch. Sorten 175 g | 1,29 EUR für 175 g = 7,37 EUR/kg
+Kaufland | Mettwurst (HeideGrund) | Streichwurst | HINWEIS: MIT KAUFLAND CARD XTRA 1.39€ versch. Sorten, gekühlt je 2 St. | 1,59 EUR für 200 g = 7,95 EUR/kg (nur mit Kunden-App)
+Netto Marken-Discount | Schinkenzwiebelmettwurst | Streichwurst | 2 x 100 g versch. Sorten | 1,69 EUR für 200 g = 8,45 EUR/kg | erst ab Donnerstag
+REWE | Sahneleberwurst (Stadt-Fleischerei Bartsch) | Streichwurst | mit Tomate und Basilikum, je 100 g | 1,59 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Magere Rindsmettwurst | Streichwurst | je 100 g | 2,69 EUR je 100 g (Grundpreis, keine Packung)
+ALDI Nord | Butterkäse XXL (Milsani) | Käse | In Scheiben, 45 % Fett i. Tr., 600-g-Packung | 2,99 EUR für 600 g = 4,98 EUR/kg | erst ab Donnerstag
+Netto Marken-Discount | Gouda XXL (Gutes Land) | Käse | oder Butterkäse XXL 1 kg gekühlt | 5,49 EUR je kg (Grundpreis, keine Packung) | erst ab Donnerstag
+PENNY | Butterkäse (Lindenhof) | Käse | HINWEIS: MIT PENNY APP 1.99 € In Scheiben, je 400 g | 2,22 EUR für 400 g = 5,55 EUR/kg (nur mit Kunden-App) | erst ab Freitag
+Kaufland | Gouda jung (K-Classic) | Käse | am Stück, 48 % Fett i. Tr., gekühlt je 450-g-Stück | 2,99 EUR für 450 g = 6,64 EUR/kg
+Kaufland | Original (Leerdammer) | Käse | oder Delacrème¹ holl. Schnittkäse, mild-nussig bzw. mild-würzig im Ges | 0,99 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Müritzer Scheiben (Milram) | Käse | HINWEIS: MIT APP 0,20 € REWE BONUS Schnittkäse, 55% Fett i. Tr., je 15 | 1,49 EUR für 150 g = 9,93 EUR/kg (nur mit Kunden-App)
+PENNY | Käsescheiben Classic (Fol Epi) | Käse | je 150 g oder Käsescheiben Extra fines, je 100 g | 1,49 EUR für 150 g = 9,93 EUR/kg
+nahkauf | Müritzer Scheiben (Milram) | Käse | HINWEIS: MIT APP 0,20 € REWE BONUS Schnittkäse, 55% Fett i.Tr., je 150 | 1,49 EUR für 150 g = 9,93 EUR/kg (nur mit Kunden-App)
+ALDI Nord | Käsescheiben XXL (Milram) | Käse | Verschiedene Sorten, Sorten: Burlander, Buttjer, Sylter, 260-g-Packung | 2,59 EUR für 260 g = 9,96 EUR/kg | erst ab Donnerstag
+REWE | Scheiben (Grünländer) | Käse | mild & nussig oder Tabasco je 140-g-Pckg. | 1,49 EUR für 140 g = 10,64 EUR/kg
+REWE | Original (Leerdammer) | Käse | holl. Schnittkäse, 45% Fett i.Tr., je 100 g | 1,11 EUR je 100 g (Grundpreis, keine Packung)
+nahkauf | Original (Leerdammer) | Käse | holl. Schnittkäse, 45% Fett i.Tr., je 100 g | 1,11 EUR je 100 g (Grundpreis, keine Packung)
+Lidl | XXL Käsescheiben (Milram) | Käse | Versch. Sorten. Gekühlt. Je 260 g | 2,89 EUR für 260 g = 11,12 EUR/kg | erst ab Donnerstag
+PENNY | XXL Käsescheiben (Milram) | Käse | Versch. Sorten, je 260 g | 2,89 EUR für 260 g = 11,12 EUR/kg | erst ab Donnerstag
+Kaufland | Schnittkäse (Leerdammer) | Käse | versch. Sorten, in Scheiben, 30 - 50 % Fett i. Tr., gekühlt je 100 - 1 | 1,59 EUR für 140 g = 11,36 EUR/kg
+Netto Marken-Discount | Käsescheiben (Kerrygold) | Käse | 130 g gekühlt, versch. Sorten | 1,69 EUR für 130 g = 13,00 EUR/kg
+NORMA | Brotzeit-Scheiben (St. Alpine) | Käse | Aus unserem Sortiment, Im Kühlregal, je 150 g | 1,99 EUR für 150 g = 13,27 EUR/kg
+Kaufland | Knusper Minis (Leerdammer) | Käse | natur, cremig und knusprig, mit Leerdammer und Mozzarella, gekühlt je  | 2,22 EUR für 150 g = 14,80 EUR/kg
+Kaufland | Butterkäse Scheiben (Bonbel) | Käse | Franz. Butterkäse Schnittkäse, in Scheiben, 50 % Fett i. Tr., gekühlt  | 1,49 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Schnittkäse (Der Spanier) | Käse | aus Kuh-, Schafs- und Ziegenmilch, 3 Monate gereift, mild, mind. 45 %  | 1,49 EUR je 100 g (Grundpreis, keine Packung)
+Lidl | Käsescheiben (Fol Epi) | Käse | Versch. Sorten. Gekühlt. Je 90/110/ 100/130/150 g | 1,69 EUR für 110 g = 15,36 EUR/kg
+Kaufland | Butterkäse (Bonbel) | Käse | Franz. Butterkäse geschmeidig und cremig-mild, 48% Fett i. Tr. je 100  | 1,79 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Emmentaler (Emmi) | Käse | Schweizer Emmentaler AOP aus Rohmilch, schnittfähig und geschmeidig, l | 1,99 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Schnittkäse (Käse Rebellen) | Käse | oder Hartkäse¹ mit besonderen Rezepturen, versch. Sorten, 45-50% Fett  | 1,99 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Jarlsberg Schnittkäse | Käse | 45% Fett i.Tr., je 100 g | 1,99 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Schnittkäse (Berg Diamant) | Käse | Schweizer Schnittkäse, mind. 50% Fett i.Tr., je 100 g | 2,29 EUR je 100 g (Grundpreis, keine Packung)
+REWE | Schnittkäse (Sterntaler) | Käse | Schweizer Schnittkäse, mind. 48% Fett i.Tr., je 100 g | 2,89 EUR je 100 g (Grundpreis, keine Packung)
+ALDI Nord | Buko (Arla) | Frischkäse/Aufstrich | Frischkäse/-zubereitung, verschiedene Sorten, Sorten: Der Sahnige, Bal | 0,88 EUR für 200 g = 4,40 EUR/kg
+Netto Marken-Discount | Frischkäsezubereitung (Philadelphia) | Frischkäse/Aufstrich | 195 g gekühlt, versch. Sorten | 0,89 EUR für 195 g = 4,56 EUR/kg | erst ab Freitag
+REWE | Natur (Philadelphia) | Frischkäse/Aufstrich | HINWEIS: MIT APP 0,10 € REWE BONUS versch. Sorten, je 195-g-Pckg. | 1,11 EUR für 195 g = 5,69 EUR/kg (nur mit Kunden-App)
+PENNY | Frischkäsezubereitung (Philadelphia) | Frischkäse/Aufstrich | Versch. Sorten, je 195 g | 1,11 EUR für 195 g = 5,69 EUR/kg
+nahkauf | Natur (Philadelphia) | Frischkäse/Aufstrich | HINWEIS: MIT APP 0,10 € REWE BONUS je 195-g-Pckg | 1,11 EUR für 195 g = 5,69 EUR/kg (nur mit Kunden-App)
+Lidl | Frischkäse (Miree) | Frischkäse/Aufstrich | oder Exquisa Frischkäse Versch. Sorten. Gekühlt. Je 135/150/200 g | 1,11 EUR für 135 g = 8,22 EUR/kg | erst ab Donnerstag
+Kaufland | Frischkäse (Bresso) | Frischkäse/Aufstrich | oder Frischkäsezubereitung 51 - 70 % Fett i. Tr., versch. Sorten, auch | 1,29 EUR für 150 g = 8,60 EUR/kg
+Kaufland | Antipasti Creme | Frischkäse/Aufstrich | Frischkäsecreme, Doppelrahmstufe, versch. Sorten je 100 g | 0,99 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Schmelzkäse (Hochland) | Frischkäse/Aufstrich | oder Käsesauce versch. Sorten, 35 - 51 % Fett i. Tr., gekühlt je 150 - | 1,99 EUR für 200 g = 9,95 EUR/kg
+Kaufland | Schmelzkäsezubereitung (Adler Edelcreme) | Frischkäse/Aufstrich | reitung, 2 Ecken, 60% Fett i. Tr., versch. Sorten, gekühlt je 100-g-Pa | 1,49 EUR je 100 g (Grundpreis, keine Packung)
+Kaufland | Schmelzkäse mit Sahne (Kiri) | Frischkäse/Aufstrich | Doppelrahmstufe, gekühlt je 10 St. = 180-g-Packg. | 2,79 EUR für 180 g = 15,50 EUR/kg
 
 == BIERKÄSTEN BIS 12,00 EUR (13) – Preis ohne Pfand ==
 Kaufland | Pilsner (Radeberger Pilsner) | oder Alkoholfrei (+ 3.10 Pfand) je Ka. 20 x 0,5-l-Fl. | 9,79 EUR | erst ab Donnerstag
