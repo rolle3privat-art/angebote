@@ -1,6 +1,7 @@
 SUPERMARKT-ANGEBOTE 16.11.2026 bis 22.11.2026
-Stand: 15.11.2026 12:33 | 693 Angebote zum Kochen
+Stand: 15.11.2026 12:47 | 693 Angebote zum Kochen
 WOCHENSTART: 2026-11-16
+ROTATION: Gruppe C (Kalenderwoche 47)
 
 Aufbau jeder Zeile: Laden | Produkt (Marke) | Grundzutat · Teilstück · Verarbeitung | Beschreibung | Preis
 'Grundpreis, keine Packung' = der Preis gilt je kg oder je 100 g. 'unsicher' = Einordnung nicht sicher.
